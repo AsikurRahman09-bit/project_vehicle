@@ -25,7 +25,12 @@ $this->writeFile($vehicles);
 }
 
 public function deleteVehicle($id){
+$vehicles= $this->readFile();
+if(isset($vehicles[$id])){
+ unset($vehicles[$id]);
+ $this->writeFile(array_values($vehicles)) ;
 
+}
 }
 
 public function getVehicle(){
