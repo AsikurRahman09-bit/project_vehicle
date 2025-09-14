@@ -1,0 +1,26 @@
+[
+    {
+        "name": " BMW iX3 M Sport Pro G08 Auto ",
+        "type": "Car ",
+        "price": "90000",
+        "image": "https:\/\/cdn.yeecar.com.au\/uploads\/car\/spec\/S000CWVE.jpg"
+    },
+    {
+        "name": "KTM 160 Duke ",
+        "type": "Bike",
+        "price": "5000",
+        "image": "https:\/\/c.ndtvimg.com\/2025-08\/fq2857pg_ktm-160-duke-rep_625x300_07_August_25.jpg?im=FeatureCrop,algorithm=dnn,width=773,height=435"
+    },
+    {
+        "name": "Mahindra Thar Roxx",
+        "type": "Car",
+        "price": "25000",
+        "image": "https:\/\/images.91wheels.com\/assets\/b_images\/main\/models\/profile\/profile1723456356.jpg?w=420&q=80"
+    },
+    {
+        "name": "Toyota edited",
+        "type": "car",
+        "price": "100000",
+        "image": "https:\/\/global.toyota\/pages\/models\/images\/alphard\/alphard_w610_02.jpg"
+    }
+]
